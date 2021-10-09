@@ -5,7 +5,7 @@ EDA of Kaggle competition [[2020 Kaggle Machine Learning & Data Science Survey]]
 
 ### Project Log
 
-- 20210902: 데이터 살펴보기
+- 20210902: 데이터 살펴보기 [Blog](https://sbj6364.github.io/data%20science/2021/09/02/kaggle2020/#more)
 
 
 
